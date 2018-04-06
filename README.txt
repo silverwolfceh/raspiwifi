@@ -41,3 +41,7 @@ sudo update-rc.d raspiwifi enable
 
 * Install bower
     npm install -g bower
+
+*** FAQ
+Q: If Pi is connected to wifi, how can we know its ip address?
+A: The Pi is broadcasting mdns package. Please download ZeroConf Browser on Google Play and looking for the RPIMaster. It is pi address.
