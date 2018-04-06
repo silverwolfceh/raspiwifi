@@ -1,7 +1,7 @@
 {
-  "name": "PanLHubStartup",
+  "name": "RaspberryPi Wifi",
   "version": "0.0.1",
-  "description": "PanLHub startup module",
+  "description": "RaspberryPi Wifi",
   "main": "server.js",
   "scripts": {
     "test": "npm test",
@@ -10,9 +10,10 @@
   "keywords": [
     "RaspberryPi",
     "Node",
-    "Wifi"
+    "Wifi",
+    "AP switch"
   ],
-  "author": "Bridgetek",
+  "author": "Tong Vuu",
   "dependencies": {
     "body-parser": "^1.11.0",
     "underscore": "~1.7.0",
